@@ -18,7 +18,7 @@ This app will be a simple tool to be used for learning the solfa and how to play
 # hello-world
 a short description : test of github
 Hi Humans !
-Hubot here, I like Node.js and Coffescript (thath's what I'm moade of!).
+Hubot here, I like Node.js and Coffescript (that's what I'm made of!).
 I've had tacos on the moon and find them far superior to Earth tacos.
 
 OK j'ai modifié ton code 
